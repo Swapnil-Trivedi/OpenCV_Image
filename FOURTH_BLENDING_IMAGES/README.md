@@ -12,7 +12,7 @@ let's take an example :
 Image 1 be : `f(X)`
 Image 2 be : `h(X)`
 in order to add this two images we can say that `g(X) = f(X) + h(X)`
-but that won't do simply because practically thinking if we place Image 1 on image 2 without adding an transperency we will only be able to see the image on top
+but that won't do simply because practically thinking if we place Image 1 on image 2 without adding any transperency factor, we will only be able to see the image on top.
 
 In Image processing the problem is solved by adding alpha
 `g(X)=A.f(X)+(1-A).h(X) + gamma`
