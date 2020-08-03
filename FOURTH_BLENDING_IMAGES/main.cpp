@@ -14,6 +14,8 @@ int main(int argc, char *argv[])
     //we make alpha a constant
     float beta=(1-alpha);
     float gamma=0.0;
+    //addWeighted will do the job of blending 
+    //parameters are source1,source1_transperency,source2,source2_transperency,gamma_correction,output_storage
     addWeighted(blue,alpha,yellow,beta,gamma,result);
     imshow("Blended Image",result);
     imwrite("result_image.png",result);
