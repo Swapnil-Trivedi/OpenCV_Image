@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1596425554 source:/home/swapnil/Desktop/c++/SECOND_BGR_TO_RGB/main.cpp
+	<opencv2/opencv.hpp>
+
