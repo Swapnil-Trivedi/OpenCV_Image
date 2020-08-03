@@ -2,3 +2,9 @@
 
 ##### Original Image
 ![](original_image.png)
+
+##### Using cvtColor to get BGR config 
+![](BGR_CONFIG.png)
+
+##### Converting back to RGB
+![](RGB_CONFIG.png)
