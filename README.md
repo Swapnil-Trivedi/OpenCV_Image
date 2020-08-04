@@ -16,3 +16,5 @@ This readme will familiarize you with the key terms needed to understand image p
 - Contrast and Brightness of an image are related like `G(x)=A.f(X)+B` where A is called gain and B is called Bias, which are both said to control Contrast and Brightness respectively.
 - Gamma Correction, control the overall illumination of the image.
 
+The above examples are to show the very basics of opencv you need to make any major project.
+feel free to change or upload new content if needed.
