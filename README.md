@@ -13,3 +13,4 @@ This readme will familiarize you with the key terms needed to understand image p
 - Blending sounds like a fancy term but is indeed addition of two or more than two pictures together.  
 - Brightness 
 - Contrast,can be simply put as the brightness of a pixel compared to its neighbours.
+- Contrast and Brightness of an image are related like `G(x)=A.f(X)+B` where A is gain and B is called Bias, which are both said to control Contrast and Brightness respectively.
