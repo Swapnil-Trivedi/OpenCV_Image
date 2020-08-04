@@ -14,3 +14,5 @@ This readme will familiarize you with the key terms needed to understand image p
 - Brightness 
 - Contrast,can be simply put as the brightness of a pixel compared to its neighbours.
 - Contrast and Brightness of an image are related like `G(x)=A.f(X)+B` where A is called gain and B is called Bias, which are both said to control Contrast and Brightness respectively.
+- Gamma Correction, control the overall illumination of the image.
+
