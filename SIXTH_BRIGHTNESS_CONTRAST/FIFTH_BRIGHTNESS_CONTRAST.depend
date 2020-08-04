@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596512461 source:/home/swapnil/Desktop/c++/FIFTH_BRIGHTNESS_CONTRAST/main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+
